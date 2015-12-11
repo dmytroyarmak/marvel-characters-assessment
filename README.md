@@ -1,7 +1,7 @@
 # Marvel Characters Assessment
 
 ## Level 1
-Create a page with a list of Marvel characters.
+Create a page with a list of Marvel characters. Display characters' names, thumbnails and descriptions.
 
 To access data you should use [Marvel Developer API](http://developer.marvel.com/docs#!/public/getCreatorCollection_get_0).
 
